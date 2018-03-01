@@ -1,5 +1,7 @@
 # iluasion
 Run Lua methods dinamicaly and rescue their returns inside python!
+
+*at moment, for linux based only*
 ## Go! Try it yourself!
 * Clone the repo or download the sources
 * import the module and the rorun class decorator
